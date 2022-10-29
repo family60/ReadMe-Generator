@@ -28,3 +28,4 @@ function createReadMe(userInput) {
     - Email: ${userInput.email} 
     `;
 }
+module.exports = createReadMe;
