@@ -1,4 +1,4 @@
-# README-Generator
+# Readme generator
 ## Table of Contents 
 - [Description](#description)
 - [Installation](#installation)
@@ -8,11 +8,11 @@
 - [Testing](#testing)
 - [Additional Info](#additional-info)
 ## Description
-Creates ReadMe.md file
+creates readme file
 ## Installation
 clone
 ## Usage
-download and run
+node index.js
 ## License
 MIT
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)]
