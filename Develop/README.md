@@ -1,4 +1,4 @@
-# title of project
+# README-Generator
 ## Table of Contents 
 - [Description](#description)
 - [Installation](#installation)
@@ -8,18 +8,18 @@
 - [Testing](#testing)
 - [Additional Info](#additional-info)
 ## Description
-desc
+Creates ReadMe.md file
 ## Installation
-installation guide 
+clone
 ## Usage
-usage
+download and run
 ## License
 MIT
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)]
 ## Contribution
-contribution = installation
+see installation
 ## Testing
-testing
+n/a
 ## Additional Info
 - Github: [family60](https://github.com/family60)
-- Email: kushrpatel06@yahoo.com 
+- Email: n/a 
