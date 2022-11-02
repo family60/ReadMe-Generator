@@ -8,6 +8,7 @@ Assuming the user already has Node.js v16.0+ on their machine, they should then 
 then in an integrated terminal, install inquirer v8.4.2 and then run "node index.js".
 
 ## Usage/Demo
+https://youtu.be/YJIGN9dbvxE
 
 ## License
 MIT
