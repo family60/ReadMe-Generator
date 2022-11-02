@@ -1,7 +1,5 @@
 function createReadMe(userInput) {
-    return `
-# ${userInput.title}
-    
+    return `# ${userInput.title}
 ## Table of Contents 
 - [Description](#description)
 - [Installation](#installation)
@@ -10,20 +8,20 @@ function createReadMe(userInput) {
 - [Contribution](#contribution)
 - [Testing](#testing)
 - [Additional Info](#additional-info)
-## Description:
+## Description
 ${userInput.description}
-## Installation:
+## Installation
 ${userInput.installationGuide}
-## Usage:
+## Usage
 ${userInput.usage}
-## License:
+## License
 ${userInput.license}
 [![license](https://img.shields.io/badge/license-${userInput.license}-blue)](https://shields.io)
-## Contribution:
+## Contribution
 ${userInput.contribute}
-## Testing:
+## Testing
 ${userInput.test}
-## Additional Info:
+## Additional Info
 - Github: [${userInput.github}](https://github.com/${userInput.github})
 - Email: ${userInput.email} 
 `;
