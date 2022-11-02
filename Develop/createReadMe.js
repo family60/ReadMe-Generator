@@ -16,7 +16,7 @@ ${userInput.installationGuide}
 ${userInput.usage}
 ## License
 ${userInput.license}
-[![license](https://img.shields.io/badge/license-${userInput.license}-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-${userInput.license}-blue.svg)]
 ## Contribution
 ${userInput.contribute}
 ## Testing

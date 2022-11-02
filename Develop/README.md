@@ -1,4 +1,4 @@
-# Title
+# title of project
 ## Table of Contents 
 - [Description](#description)
 - [Installation](#installation)
@@ -8,18 +8,18 @@
 - [Testing](#testing)
 - [Additional Info](#additional-info)
 ## Description
-description
+desc
 ## Installation
-installation guide
+installation guide 
 ## Usage
-user guide/usage
+usage
 ## License
-
-[![license](https://img.shields.io/badge/license--blue)](https://shields.io)
+MIT
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)]
 ## Contribution
-contribution guide
+contribution = installation
 ## Testing
-testing information
+testing
 ## Additional Info
 - Github: [family60](https://github.com/family60)
 - Email: kushrpatel06@yahoo.com 

@@ -83,10 +83,11 @@ const questions = [
         }
     },
     {
-        type: "checkbox",
+        type: "list",
         name: "license",
         message: "Choose the license for your project",
         choices: ["MIT", "GNU-General-Public", "Eclipse-Public-License-2.0", "none"],
+        default: "MIT",
         validate: license => {
             if (license) {
                 return true;
